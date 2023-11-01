@@ -1,11 +1,12 @@
 # 2D-Platformer
-Oct. 17, 2023
+Oct. 24, 2023
 
 ## Implementation
 
 ## What Makes this a Game?
 
 ## References
+Itch.io for tilesets
 
 ## Future Development
 
