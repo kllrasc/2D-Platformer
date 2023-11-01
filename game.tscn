@@ -7,7 +7,6 @@
 size = Vector2(1152, 50)
 
 [sub_resource type="CompressedTexture2D" id="CompressedTexture2D_prkri"]
-load_path = "res://.godot/imported/player.png-2dd0af52de4b213777cd8c9df94c0978.ctex"
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_a22it"]
 atlas = SubResource("CompressedTexture2D_prkri")
